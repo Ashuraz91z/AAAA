@@ -1,0 +1,820 @@
+[
+    {
+        "formation": "849005",
+        "steps": [
+            {
+                "step_id": "2204009",
+                "quiz_data": [
+                    {
+                        "question": "L\u2019identit\u00e9 num\u00e9rique est constitu\u00e9e de :",
+                        "answers": [
+                            "Nos contributions sur internet",
+                            "Les traces de nos passages que nous choisissons de laisser sur les sites",
+                            "Les traces de nos passages que nous ne choisissons pas de laisser sur les sites"
+                        ]
+                    },
+                    {
+                        "question": "Les \u00e9changes num\u00e9riques ne font pas partie de la vie r\u00e9elle (IRL).",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Avec les r\u00e9seaux sociaux, internet est devenu :",
+                        "answers": [
+                            "Un r\u00e9seau avec des sites vitrines mais pas que",
+                            "Diffusion de \u00ab live \u00bb (vid\u00e9os en direct)",
+                            "Conversationnel",
+                            "Un outil de communication de masse",
+                            "Un outil de communication individuel"
+                        ]
+                    },
+                    {
+                        "question": "Lorsqu\u2019un \u00e9metteur envoie un message \u00e0 un r\u00e9cepteur, ce dernier le re\u00e7oit \u00e0 100%.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Compl\u00e9ter la phrase suivante : L\u2019image de marque permet \u00e0 l\u2019organisation de : \u00e0 long terme, \u00e0 travers la standardisation des \u00e9l\u00e9ments tangibles mais aussi du facteur humain, et enfin\u2026",
+                        "answers": [
+                            "De s\u2019engager sur un niveau de qualit\u00e9 de la prestation",
+                            "G\u00e9n\u00e9rer un sentiment de confiance de la part des consommateurs"
+                        ]
+                    },
+                    {
+                        "question": "L\u2019e-r\u00e9putation est :",
+                        "answers": [
+                            "Une composante majeure de l\u2019identit\u00e9 num\u00e9rique",
+                            "Susceptible de vaciller rapidement",
+                            "Valoris\u00e9e au travers du capital de marque",
+                            "Un actif strat\u00e9gique pour les organisations",
+                            "Un moyen de conduire le client \u00e0 acheter une promesse produit/service"
+                        ]
+                    },
+                    {
+                        "question": "Le mot \u00ab notori\u00e9t\u00e9 \u00bb est synonyme de :",
+                        "answers": [
+                            "C\u00e9l\u00e9brit\u00e9",
+                            "Renomm\u00e9e"
+                        ]
+                    },
+                    {
+                        "question": "La r\u00e9putation est le r\u00e9sultat :",
+                        "answers": [
+                            "D\u2019une influence de l\u2019image sur des repr\u00e9sentations mentales",
+                            "D\u2019une \u00e9valuation",
+                            "D\u2019un jugement sur l\u2019alt\u00e9rit\u00e9"
+                        ]
+                    },
+                    {
+                        "question": "Travailler sur sa e-r\u00e9putation est indispensable pour une entreprise.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Les bad-buzz sont facilement surmontables, il suffit de laisser l\u2019information se diluer dans le temps.",
+                        "answers": [
+                            "Tout d\u00e9pend de la situation"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "2204131",
+                "quiz_data": [
+                    {
+                        "question": "Qu\u2019est-ce que le cyberbullying ?",
+                        "answers": [
+                            "une forme de harc\u00e8lement num\u00e9rique",
+                            "Des insultes venants de profils anonymes sur les r\u00e9seaux sociaux",
+                            "Un d\u00e9lit puni par la loi"
+                        ]
+                    },
+                    {
+                        "question": "Le bad-buzz n\u2019a que des cons\u00e9quences n\u00e9gatives.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Qu\u2019est-ce que l\u2019identit\u00e9 globale ?",
+                        "answers": [
+                            "Le syst\u00e8me compos\u00e9 par l\u2019identit\u00e9 personnelle, sociale et num\u00e9rique"
+                        ]
+                    },
+                    {
+                        "question": "L\u2019\u00e9poque actuelle est caract\u00e9ris\u00e9e par une crise g\u00e9n\u00e9rale de confiance similaire \u00e0 une crise d\u2019identit\u00e9.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "En strat\u00e9gie marketing on peut utiliser l\u2019e-r\u00e9putation pour :",
+                        "answers": [
+                            "G\u00e9n\u00e9rer de la viralit\u00e9",
+                            "Faire du buzz",
+                            "Am\u00e9liorer sa visibilit\u00e9"
+                        ]
+                    },
+                    {
+                        "question": "Comment se construit alors la confiance ? Avec des \u2026",
+                        "answers": [
+                            "Constructions psychiques subjectives",
+                            "Informations verbales et non verbales",
+                            "Exigences",
+                            "Informations sensorielles"
+                        ]
+                    },
+                    {
+                        "question": "Les fakes-news peuvent modifier l\u2019opinion de masse et entra\u00eener des cons\u00e9quences politiques et \u00e9conomiques.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Le verbe \u00ab troller \u00bb signifie :",
+                        "answers": [
+                            "Cr\u00e9er artificiellement une controverse",
+                            "Focaliser l\u2019attention de la communaut\u00e9"
+                        ]
+                    },
+                    {
+                        "question": "Les dimensions personnelle, sociale et num\u00e9rique sont parfois ind\u00e9pendantes et toujours compl\u00e9mentaires.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Selon Arrow la confiance se d\u00e9finit comme une \u00ab institution visible \u00bb qui fonde le monde \u00e9conomique et social.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "2204154",
+                "quiz_data": [
+                    {
+                        "question": "Parmi les propositions suivantes, lesquelles permettent de se pr\u00e9parer \u00e0 g\u00e9rer les risques li\u00e9s \u00e0 l' e-r\u00e9putation ?",
+                        "answers": [
+                            "La charte de mod\u00e9ration",
+                            "Le kit de gestion de crise",
+                            "La formation"
+                        ]
+                    },
+                    {
+                        "question": "Construire une relation de confiance avec les internautes n\u2019est pas n\u00e9cessaire pour une entreprise.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Les risques d\u2019atteinte \u00e0 l'e-r\u00e9putation peuvent \u00eatre d\u2019ordre :",
+                        "answers": [
+                            "Informatique",
+                            "Humain",
+                            "Communicationnel",
+                            "Informationnel",
+                            "\u00c9conomique"
+                        ]
+                    },
+                    {
+                        "question": "Avec plusieurs milliards d\u2019individus surfant sur internet et utilisant les r\u00e9seaux sociaux, il n\u2019est pas pertinent d\u2019identifier sa ou ses cibles de communication.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Cocher la propositions correcte.",
+                        "answers": [
+                            "Un individu peut \u00eatre \u00e0 la fois consommateur et acheteur"
+                        ]
+                    },
+                    {
+                        "question": "L\u2019objectif conatif a pour but de faire :",
+                        "answers": [
+                            "Agir"
+                        ]
+                    },
+                    {
+                        "question": "La qualit\u00e9 de la gestion de l\u2019e-r\u00e9putation est corr\u00e9l\u00e9e :",
+                        "answers": [
+                            "Aux objectifs de communication",
+                            "Au ressources qui lui sont allou\u00e9es",
+                            "A la strat\u00e9gie d\u2019entreprise"
+                        ]
+                    },
+                    {
+                        "question": "Les menaces concernant l\u2019e-r\u00e9putation sont :",
+                        "answers": [
+                            "Internes",
+                            "Externes",
+                            "Courantes"
+                        ]
+                    },
+                    {
+                        "question": "Travailler sur sa e-r\u00e9putation implique de consid\u00e9rer une cible plus large que sa cible consommateur-acheteur-prescripteur.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Avant de d\u00e9cider de rendre une entreprise visible dans l\u2019\u00e9cosyst\u00e8me digital, il est indispensable de v\u00e9rifier si la cellule de communication est pr\u00eate \u00e0 cr\u00e9er et g\u00e9rer des interactions conversationnelles.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "2205726",
+                "quiz_data": [
+                    {
+                        "question": "L\u2019\u00c9cole de Palo Alto a d\u00e9velopp\u00e9 un champs th\u00e9orique de recherche bas\u00e9 sur :",
+                        "answers": [
+                            "Les syst\u00e8mes d\u2019interactions",
+                            "La communication interpersonnelle",
+                            "L\u2019interdisciplinarit\u00e9"
+                        ]
+                    },
+                    {
+                        "question": "Tout diagnostic commence par une \u00e9valuation des variables internes.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Pour \u00e9viter les potentiels conflits d\u2019image entre profils personnel et professionnel, il est judicieux de :",
+                        "answers": [
+                            "Nettoyer ses profils des informations potentiellement compromettantes, d\u00e9licates, ou n\u2019ayant pas vocation \u00e0 \u00eatre publique",
+                            "Choisir ses param\u00e8tres de confidentialit\u00e9"
+                        ]
+                    },
+                    {
+                        "question": "Les m\u00e9ta-moteurs de recherche permettent de faire des recherches sur le m\u00e9ta-web.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Le web visible repr\u00e9sente :",
+                        "answers": [
+                            "10% du web"
+                        ]
+                    },
+                    {
+                        "question": "Les social-ads permettent :",
+                        "answers": [
+                            "De cibler des audiences pr\u00e9cises"
+                        ]
+                    },
+                    {
+                        "question": "Un diagnostic permet de :",
+                        "answers": [
+                            "Discerner un mode de fonctionnement",
+                            "Appr\u00e9cier, \u00e9valuer, faire des plans"
+                        ]
+                    },
+                    {
+                        "question": "Parmi les diff\u00e9rentes composantes du web, il y a :",
+                        "answers": [
+                            "Le Dark Web",
+                            "Le Clear Web"
+                        ]
+                    },
+                    {
+                        "question": "Une bonne e-r\u00e9putation permet d\u2019inspirer la confiance.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Les moteurs de recherche ne permettent pas de visualiser les r\u00e9sultats non index\u00e9s.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "2211236",
+                "quiz_data": [
+                    {
+                        "question": "Le terme \u00ab r\u00e9f\u00e9rencement \u00bb renvoie aux mots suivants :",
+                        "answers": [
+                            "\u00c9chantillonnage",
+                            "Mentions",
+                            "Renseignements",
+                            "Position favorable"
+                        ]
+                    },
+                    {
+                        "question": "SEO signifie :",
+                        "answers": [
+                            "Search Engine Marketing"
+                        ]
+                    },
+                    {
+                        "question": "Google Webmaster Tool permet de :",
+                        "answers": [
+                            "Diffuser les bonnes pratiques pour optimiser le r\u00e9f\u00e9rencement des sites internet sur Google",
+                            "Communiquer sur les \u00e9volutions des robots de r\u00e9f\u00e9rencement de Google"
+                        ]
+                    },
+                    {
+                        "question": "L\u2019architecture et l\u2019ergonomie d\u2019un site internet comptent peu pour son r\u00e9f\u00e9rencement. Seul le contenu s\u00e9mantique compte.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Cocher la proposition correcte.",
+                        "answers": [
+                            "Google construit une r\u00e9putation selon ses crit\u00e8res"
+                        ]
+                    },
+                    {
+                        "question": "Cocher les r\u00e9ponses correctes.",
+                        "answers": [
+                            "Les moteurs de recherche construisent des e-r\u00e9putation exog\u00e8nes aux sites",
+                            "Les moteurs de recherche s\u2019imposent comme des autorit\u00e9s informationnelles"
+                        ]
+                    },
+                    {
+                        "question": "Cocher les propositions correctes.",
+                        "answers": [
+                            "SEM = SEO + SEA + SMO + SMA",
+                            "SMM = SMO + SMA"
+                        ]
+                    },
+                    {
+                        "question": "LE RGPD a pour r\u00f4le de :",
+                        "answers": [
+                            "Renforcer les droits des personnes"
+                        ]
+                    },
+                    {
+                        "question": "Adwords permet de travailler \u00e0 une meilleur visibilit\u00e9 sur les r\u00e9seaux sociaux.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Les donn\u00e9es pr\u00e9sentes sur les sites et les r\u00e9seaux sociaux nourrissent les moteurs de recherche, et donc l'e-r\u00e9putation qu\u2019ils g\u00e9n\u00e8rent.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "2211664",
+                "quiz_data": [
+                    {
+                        "question": "Les r\u00e9seaux sociaux se distinguent par :",
+                        "answers": [
+                            "Leur dimension interactionnelle et conversationnelle",
+                            "La viralit\u00e9 des contenus dues aux interactions"
+                        ]
+                    },
+                    {
+                        "question": "Les informations divulgu\u00e9es dans le pass\u00e9 n\u2019agissent pas sur l'e-r\u00e9putation dans le temps pr\u00e9sent.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "On appelle \u00ab marqueurs documentaires multiples \u00bb :",
+                        "answers": [
+                            "Les likes",
+                            "Les avis"
+                        ]
+                    },
+                    {
+                        "question": "L'e-r\u00e9putation d\u2019un individu, d\u2019une entreprise ou d\u2019une marque :",
+                        "answers": [
+                            "Est g\u00e9rable"
+                        ]
+                    },
+                    {
+                        "question": "Cocher la proposition correcte.",
+                        "answers": [
+                            "La charte de mod\u00e9ration est un document qui encadre la politique de r\u00e9ponse aux messages et commentaires re\u00e7us par les comptes d\u2019une organisation sur les r\u00e9seaux sociaux"
+                        ]
+                    },
+                    {
+                        "question": "Les bonnes pratiques permettent de :",
+                        "answers": [
+                            "Professionnaliser sa pr\u00e9sence sur les r\u00e9seaux sociaux",
+                            "Mieux choisir ses traces volontaires",
+                            "Am\u00e9liorer sa visibilit\u00e9"
+                        ]
+                    },
+                    {
+                        "question": "Cocher les propositions correctes.",
+                        "answers": [
+                            "L'e-identit\u00e9, c\u2019est la personnalit\u00e9 de la marque",
+                            "L\u2019e-exp\u00e9rience, c\u2019est la coh\u00e9rence entre la promesse (abstraite) de la marque et l\u2019exp\u00e9rience (physique) du consommateur"
+                        ]
+                    },
+                    {
+                        "question": "L'e-r\u00e9putation sur les r\u00e9seaux sociaux est nourrie par :",
+                        "answers": [
+                            "Des traces volontaires et involontaires",
+                            "Les interactions",
+                            "Les informations divulgu\u00e9es dans le pass\u00e9"
+                        ]
+                    },
+                    {
+                        "question": "Une entreprise n\u2019a pas besoin de renseigner les champs informatifs de ses profils sociaux.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Les messages priv\u00e9s ou DM ne sont pas concern\u00e9s par la charte de mod\u00e9ration.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "2211706",
+                "quiz_data": [
+                    {
+                        "question": "Les logiques du mod\u00e8le \u00e9conomique num\u00e9rique sont de :",
+                        "answers": [
+                            "De capter, de lier sous formes de communaut\u00e9s, et de conserver, une audience",
+                            "R\u00e9cup\u00e9rer des donn\u00e9es",
+                            "Capter une audience la plus nombreuse possible, et la plus active possible",
+                            "Vendre des publicit\u00e9s cibl\u00e9es"
+                        ]
+                    },
+                    {
+                        "question": "Le mod\u00e8le dominant de l\u2019\u00e9conomie num\u00e9rique est celui du financement par la publicit\u00e9.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Pour convertir une cible en clients, la publicit\u00e9 doit \u00eatre diffus\u00e9e :",
+                        "answers": [
+                            "Avec le bon message",
+                            "Avec les informations amenant \u00e0 l\u2019acte d\u2019achat"
+                        ]
+                    },
+                    {
+                        "question": "La captation massive de donn\u00e9es utilisateurs :",
+                        "answers": [
+                            "Comporte des risques r\u00e9els et non n\u00e9gligeables pour les internautes"
+                        ]
+                    },
+                    {
+                        "question": "Cocher la proposition correcte.",
+                        "answers": [
+                            "Les donn\u00e9es issues de collectes actives sont les informations fournies par les internautes eux-m\u00eames"
+                        ]
+                    },
+                    {
+                        "question": "Prot\u00e9ger compl\u00e8tement sa vie priv\u00e9e reviendrait \u00e0 se couper compl\u00e9tement des liens sociaux et des outils num\u00e9riques utilis\u00e9s au quotidien.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "Cocher la proposition correct.",
+                        "answers": [
+                            "Les internautes sont des parties prenantes actives d\u2019internet"
+                        ]
+                    },
+                    {
+                        "question": "Les grandes entreprises qui r\u00e9cup\u00e8rent les donn\u00e9es personnelles sont pour l\u2019instant prot\u00e9g\u00e9es des l\u00e9gislations nationales gr\u00e2ce \u00e0 leurs caract\u00e9ristiques :",
+                        "answers": [
+                            "Extraterritoriales",
+                            "Le peu de fronti\u00e8res num\u00e9riques",
+                            "Internationales",
+                            "De m\u00e9dias de masse"
+                        ]
+                    },
+                    {
+                        "question": "Les annonceurs sont toujours des professionnels.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Le consentement individuel concernant la captation des donn\u00e9es car les donn\u00e9es d\u2019un individu en concerne d\u2019autres \u00e0 cause des liens et relations sociales.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "2211711",
+                "quiz_data": [
+                    {
+                        "question": "Quels outils l\u2019influence sociale et le marketing d\u2019influence utilisent-il ?",
+                        "answers": [
+                            "Le pouvoir social",
+                            "La r\u00e9putation",
+                            "Le potentiel de recommandation"
+                        ]
+                    },
+                    {
+                        "question": "Aujourd\u2019hui, les influenceurs sont uniquement des vedettes.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Que mon\u00e9tisent les e-influenceurs ?",
+                        "answers": [
+                            "Leur visibilit\u00e9",
+                            "Leur tonalit\u00e9 de communication (humour, expertise, \u2026)"
+                        ]
+                    },
+                    {
+                        "question": "Quels sont les trois piliers de la e-r\u00e9putation des e-influenceurs ?",
+                        "answers": [
+                            "Croyance, reconnaissance, confiance"
+                        ]
+                    },
+                    {
+                        "question": "Cocher la proposition correcte.",
+                        "answers": [
+                            "La collaboration des marques avec des influenceurs permet d\u2019acc\u00e9l\u00e9rer la transformation d\u2019une audience de masse en client\u00e8le de masse"
+                        ]
+                    },
+                    {
+                        "question": "Sur quelle plateforme sociale se trouvent majoritairement les influenceurs ?",
+                        "answers": [
+                            "Instagram"
+                        ]
+                    },
+                    {
+                        "question": "Cocher les propositions correctes.",
+                        "answers": [
+                            "Les 18-24 ans n\u2019h\u00e9sitent pas \u00e0 se positionner eux-m\u00eames comme influenceurs aupr\u00e8s de leurs proches",
+                            "Les influenceurs sont \u00e0 envisager comme un \u00e9l\u00e9ment d\u00e9clencheur de consid\u00e9ration pour une marque"
+                        ]
+                    },
+                    {
+                        "question": "La mobilisation des affects (\u00e9motions et sentiments) g\u00e9n\u00e8re mois d\u2019engagement de la part des audiences.",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "La publicit\u00e9 g\u00e9n\u00e8re massivement de la confiance.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Les influenceurs mon\u00e9tisent aupr\u00e8s des marques un acc\u00e8s aux communaut\u00e9s sur lesquelles ils ont un pouvoir de prescription gr\u00e2ce \u00e0 leur r\u00e9putation.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "2211716",
+                "quiz_data": [
+                    {
+                        "question": "Sur internet, les organisations doivent mettre en \u0153uvre des politiques de mod\u00e9ration appropri\u00e9es pour :",
+                        "answers": [
+                            "Prot\u00e9ger les organisations, entreprises, les marques et les individus",
+                            "G\u00e9rer au mieux leur communication digitale et leur e-r\u00e9putation"
+                        ]
+                    },
+                    {
+                        "question": "Cocher la proposition correcte.",
+                        "answers": [
+                            "Depuis l\u2019explosion de son nombre d\u2019utilisateurs internet est un lieu de convergence de l\u2019information et de la communication"
+                        ]
+                    },
+                    {
+                        "question": "Les organisations doivent :",
+                        "answers": [
+                            "Maitriser la gestion des contenus qu\u2019elles produisent",
+                            "Savoir capitaliser sur les contenus g\u00e9n\u00e9r\u00e9s par les utilisateurs"
+                        ]
+                    },
+                    {
+                        "question": "Cocher les r\u00e9ponses correctes.",
+                        "answers": [
+                            "La charte de mod\u00e9ration est le code de la route du community manager",
+                            "La charte \u00e9ditoriale concerne le la forme accept\u00e9e dans les commentaires (ton, niveau de langage, etc.)"
+                        ]
+                    },
+                    {
+                        "question": "Cocher la proposition correcte.",
+                        "answers": [
+                            "Dans une charte l\u00e9gale sont r\u00e9sum\u00e9s tous les cas pr\u00e9vus par la loi susceptibles de poser probl\u00e8me dans les commentaires (incitation \u00e0 la haine, insulte, diffamation, harc\u00e8lement, mais aussi p\u00e9ril imminent et non-assistance \u00e0 personne en danger"
+                        ]
+                    },
+                    {
+                        "question": "Les organisations peuvent g\u00e9rer leur mod\u00e9ration en interne (avec un community manager) ou en externe (avec une agence de communication sp\u00e9cialis\u00e9e).",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Cocher les propositions correctes.",
+                        "answers": [
+                            "Les commentaires, opinions, critiques et interpellations produits par des amateurs sont d\u00e9sormais des formes d\u2019expression int\u00e9gr\u00e9es dans les proc\u00e8s de production des m\u00e9dias professionnels",
+                            "Les contenus produits par les internautes sont appel\u00e9s \u00ab user generated content \u00bb"
+                        ]
+                    },
+                    {
+                        "question": "Une organisation doit surveiller ses r\u00e9seaux sociaux :",
+                        "answers": [
+                            "Plusieurs fois par jour"
+                        ]
+                    },
+                    {
+                        "question": "La e-r\u00e9putation n\u2019est qu\u2019une affaire de contenus.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    },
+                    {
+                        "question": "Les organisations doivent r\u00e9fl\u00e9chir \u00e0 leur positionnement de mod\u00e9ration en tant que :",
+                        "answers": [
+                            "Producteur de contenus",
+                            "L\u00e9gislateur",
+                            "Mod\u00e9rateur"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "formation": "721478",
+        "steps": [
+            {
+                "step_id": "1887381",
+                "quiz_data": [
+                    {
+                        "question": "La gamification \u00e0 l'attention de salari\u00e9s s'appelle la gamification interne",
+                        "answers": [
+                            "Vrai"
+                        ]
+                    },
+                    {
+                        "question": "L'attribution de miles par les compagnie a\u00e9rienne est un exemple de gamification d'un processus de",
+                        "answers": [
+                            "Fid\u00e9lisation au service"
+                        ]
+                    },
+                    {
+                        "question": "La gamification est un processus d'am\u00e9lioration d'un service interactif gr\u00e2ce aux prisme et aux m\u00e9caniques ludiques afin de soutenir la cr\u00e9ation de valeur globale pour l\u2019utilisateur.",
+                        "answers": [
+                            "Faux"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "1887389",
+                "quiz_data": [
+                    {
+                        "question": "Tous les jeux ne nous amuse pas de la m\u00eame fa\u00e7on. Nicole Lazzaro d\u00e9crit 4 types d'amusement : facile, difficile, social et serieux. On peut qualifier Le Trivial Pursuit de jeu serieux parce que :",
+                        "answers": [
+                            "Il permet d'acqu\u00e9rir de nouvelles connaissances"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "1887448",
+                "quiz_data": [
+                    {
+                        "question": "Quels sont deux aspects sp\u00e9cifiques \u00e0 la gamification interne ?",
+                        "answers": [
+                            "les salari\u00e9s sont dans une position particuli\u00e8re face \u00e0 l\u2019employeur, organisateur du jeu.",
+                            "les salari\u00e9s sont potentiellement en relation personnelle les uns avec les autres."
+                        ]
+                    },
+                    {
+                        "question": "Si cette typologie ne concernent que les joueurs de MMORPG, qu'elles sont les le\u00e7ons que l'on peut en tirer pour la gamification ?",
+                        "answers": [
+                            "On ne cherche pas tous la m\u00eame chose dans un jeu. \ncorrect"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "1887456",
+                "quiz_data": [
+                    {
+                        "question": "Quelle \u00e9tape du Gamification Design Framework peut \u00eatre plus facilement abord\u00e9e dans le Gamification Model Canvas",
+                        "answers": [
+                            "La cr\u00e9ation de boucles d'activit\u00e9"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "1888190",
+                "quiz_data": [
+                    {
+                        "question": "Quel est l'objectif principal de l'esth\u00e9tique en gamification ?",
+                        "answers": [
+                            "Cr\u00e9er un lien \u00e9motionnel avec les utilisateurs"
+                        ]
+                    },
+                    {
+                        "question": "Quel est l'un des trois syst\u00e8mes de gamification d\u00e9velopp\u00e9s par LinkedIn ?",
+                        "answers": [
+                            "Le Jeu du Profil"
+                        ]
+                    },
+                    {
+                        "question": "Quel est l'objectif de la gamification pour les utilisateurs avanc\u00e9s de LinkedIn ?",
+                        "answers": [
+                            "Faire partie de l'\u00e9lite de LinkedIn"
+                        ]
+                    },
+                    {
+                        "question": "Quel mod\u00e8le est propos\u00e9 par Amy Jo Kim pour le cheminement des utilisateurs ?",
+                        "answers": [
+                            "Les Nouveaux, Les R\u00e9guliers, Les Fans"
+                        ]
+                    },
+                    {
+                        "question": "Quelle est l'une des trois techniques pour maintenir l'engagement selon Amy Jo Kim ?",
+                        "answers": [
+                            "Boucles d'Activit\u00e9 Courte"
+                        ]
+                    },
+                    {
+                        "question": "Quel est l'objectif principal de la mise en contact des utilisateurs en gamification ?",
+                        "answers": [
+                            "Maximiser l'engagement des utilisateurs"
+                        ]
+                    },
+                    {
+                        "question": "Quelle technique est utilis\u00e9e pour maintenir l'engagement des utilisateurs experts tout en aidant les utilisateurs en difficult\u00e9 ?",
+                        "answers": [
+                            "Mise en contact des utilisateurs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "1888209",
+                "quiz_data": [
+                    {
+                        "question": "Quel a \u00e9t\u00e9 l'impact de la gamification sur l'engagement des employ\u00e9s dans le cas d'\u00e9tude de l'intranet gamifi\u00e9 ?",
+                        "answers": [
+                            "Augmentation de l'engagement \u00e0 89%"
+                        ]
+                    },
+                    {
+                        "question": "Quel r\u00f4le joue la technologie dans l'impact de la gamification sur l'engagement des employ\u00e9s et des clients ?",
+                        "answers": [
+                            "Elle \u00e9tait minimale mais a cr\u00e9\u00e9 un impact significatif"
+                        ]
+                    },
+                    {
+                        "question": "Quel est l'objectif de l'optimisation de la gamification en fonction des retours des utilisateurs ?",
+                        "answers": [
+                            "Maximiser l'engagement et la satisfaction des utilisateurs"
+                        ]
+                    }
+                ]
+            },
+            {
+                "step_id": "1888206",
+                "quiz_data": [
+                    {
+                        "question": "Pourquoi la participation volontaire est-elle importante en gamification ?",
+                        "answers": [
+                            "Pour rendre l'exp\u00e9rience plus amusante"
+                        ]
+                    },
+                    {
+                        "question": "Quel est un moyen d'encourager la participation volontaire en gamification selon le module ?",
+                        "answers": [
+                            "Condition d'acc\u00e8s \u00e0 une information amusante"
+                        ]
+                    },
+                    {
+                        "question": "Quelle est une des probl\u00e9matiques \u00e9thiques li\u00e9es \u00e0 la gamification ?",
+                        "answers": [
+                            "L'utilisation des donn\u00e9es"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
